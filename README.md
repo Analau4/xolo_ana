@@ -1,2 +1,2 @@
-# xolo_ana
+# A_xolotl
 My personal repository

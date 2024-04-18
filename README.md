@@ -18,7 +18,7 @@ Let me talk you more about me :
 Well, you might ask why my README Repo starts by "Xolo". It comes from "Xoloitzcuintle" : a majestic and native dog from mexican culture. If you saw "Coco" film, you know what i'm talking about ! 
 If not, and if you got curious, visit the page : [https://www.ngenespanol.com/animales/xoloitzcuintle-leyenda-del-perro-azteca-prehispanico-y-su-significado/]
 
->> Yes, I'm **proud** of my culture MX ! :blush: 
+>> Yes, I'm **proud** of my culture ! :blush: 
 
 
 
